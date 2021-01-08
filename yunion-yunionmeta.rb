@@ -2,7 +2,7 @@ class YunionYunionmeta < Formula
   desc "Yunion Cloud Meta Controller Service"
   homepage "YunionMeta"
   version_scheme 1
-  head "ssh://git@git.yunion.io/~quxuan/yunionmeta.git",
+  head "https://quxuan@git.yunion.io/scm/cloud/yunionmeta.git",
     :branch      => "master"
   
   depends_on "go" => :build
