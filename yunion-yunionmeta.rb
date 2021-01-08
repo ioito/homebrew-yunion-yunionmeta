@@ -1,4 +1,4 @@
-class YunionMeta < Formula
+class YunionYunionmeta < Formula
   desc "Yunion Cloud Meta Controller Service"
   homepage "YunionMeta"
   version_scheme 1
